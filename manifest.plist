@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.8.6.161:9080/drcbms/DRCFirmBusiness.ipa</string>
+					<string>https://raw.githubusercontent.com/heyoujian1993/Test/master/DRCFirmBusiness.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.8.6.161:9080/drcbms/58_meitu_1.png</string>
+					<string>https://raw.githubusercontent.com/heyoujian1993/Test/master/58_meitu_1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.8.6.161:9080/drcbms/167_meitu_1.png</string>
+					<string>https://raw.githubusercontent.com/heyoujian1993/Test/master/167_meitu_1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -37,63 +37,6 @@
 				<key>title</key>
 				<string>DRCFirmBusiness</string>
 			</dict>
-			<key>thinned-assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://10.8.6.161:9080/drcbms/DRCFirmBusiness-iPad%20(3rd%20generation)-etc.ipa</string>
-					<key>variantIds</key>
-					<array>
-						<string>iPad2,5</string>
-						<string>iPad3,4</string>
-						<string>iPad2,2</string>
-						<string>iPad2,7</string>
-						<string>iPad3,1</string>
-						<string>iPad3,6</string>
-						<string>iPad2,4</string>
-						<string>iPad3,3</string>
-						<string>iPad2,1</string>
-						<string>iPad2,6</string>
-						<string>iPad3,5</string>
-						<string>iPad2,3</string>
-						<string>iPad3,2</string>
-					</array>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://10.8.6.161:9080/drcbms/DRCFirmBusiness-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
-					<key>variantIds</key>
-					<array>
-						<string>iPad7,4</string>
-						<string>iPad4,5</string>
-						<string>iPad6,3</string>
-						<string>iPad4,6</string>
-						<string>iPad5,1</string>
-						<string>iPad6,11</string>
-						<string>iPad6,4</string>
-						<string>iPad5,2</string>
-						<string>iPad4,7</string>
-						<string>iPad4,1</string>
-						<string>iPad4,8</string>
-						<string>iPad5,3</string>
-						<string>iPad6,12</string>
-						<string>iPad7,1</string>
-						<string>iPad4,2</string>
-						<string>iPad4,9</string>
-						<string>iPad5,4</string>
-						<string>iPad7,2</string>
-						<string>iPad6,7</string>
-						<string>iPad4,3</string>
-						<string>iPad7,3</string>
-						<string>iPad6,8</string>
-						<string>iPad4,4</string>
-					</array>
-				</dict>
-			</array>
 		</dict>
 	</array>
 </dict>
